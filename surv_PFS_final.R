@@ -9,7 +9,7 @@ library(survival)
 require(survminer)
 
 #read in data
-df_all <- data.frame(fread("~/Documents/17-256/new_analysis/PFS_table.csv", header = TRUE, sep = ",", fill = TRUE))
+df_all <- data.frame(fread("/data/RET_master_table.tsv", header = TRUE, sep = "\t", fill = TRUE))
 
 #Shedding - Figure 2B
 df_Shedding <- df_all[df_all$Shedding != "REMOVE",]
