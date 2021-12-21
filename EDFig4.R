@@ -90,7 +90,6 @@ do.overallchange = function(oc, exome_order, leg.pos='none'){
           axis.text.y=element_blank(),
           axis.ticks=element_blank(),
           axis.title.x=element_blank(),
-          #axis.title.y=element_text(angle=0, hjust=.5, size=10), #####
           panel.background=element_blank(),
           panel.border=element_blank(),
           panel.grid.major=element_blank(),
@@ -122,7 +121,6 @@ do.smoking = function(sm, exome_order, leg.pos='none'){
           axis.text.y=element_blank(),
           axis.ticks=element_blank(),
           axis.title.x=element_blank(),
-          #axis.title.y=element_text(angle=0, hjust=.5, size=10), #####
           panel.background=element_blank(),
           panel.border=element_blank(),
           panel.grid.major=element_blank(),
@@ -165,8 +163,6 @@ sign_plot = ggplot(sig0, aes(x = factor(`Study_ID`, exome_order), fill = value))
   theme(legend.position = "bottom")
 
 sign_plot = sign_plot + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
-#(labels == FALSE) sign_plot + theme(axis.text.x = element_blank(), axis.ticks.x = element_blank())
-
 
 sign.f = sign_plot + facet_grid(.~exome$Alt_Type,scales='free_x',space='free_x') + theme(strip.background = element_blank(), strip.text = element_blank())
 sign.f
