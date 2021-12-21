@@ -1,0 +1,45 @@
+Study_ID	Tumor	Type	TMB	RECIST	Weeks	Clonality
+EDD_ret_pt065	Lung Adenocarcinoma	Fusion	0.722130351	-55.738	39.71428571	SUBCLONAL
+EDD_ret_pt011	Lung Adenocarcinoma	Fusion	3.777297222	-100	80.85714286	CLONAL
+EDD_ret_pt034	Lung Adenocarcinoma	Fusion	1.138744015	-26.19	89.85714286	SUBCLONAL
+EDD_ret_pt002	Lung Adenocarcinoma	Fusion	2.999618382	NE	74.71428571	CLONAL
+EDD_ret_pt003	Lung Adenocarcinoma	Fusion	0.805453084	-87.671	39.28571429	CLONAL
+EDD_ret_pt037	Lung Adenocarcinoma	Fusion	1.555357679	NE	86.71428571	CLONAL
+EDD_ret_pt042	Lung Adenocarcinoma	Fusion	1.110969771	-51.613	121.8571429	CLONAL
+EDD_ret_pt050	Lung Adenocarcinoma	Fusion	9.748759741	-62.5	66.57142857	SUBCLONAL
+EDD_ret_pt027	Lung Adenocarcinoma	Fusion	1.527583435	-56.716	71.42857143	SUBCLONAL
+EDD_ret_pt021	Lung Adenocarcinoma	Fusion	0.694356107	-32	118.5714286	SUBCLONAL
+EDD_ret_pt041	Lung Adenocarcinoma	Fusion	1.916422855	-58.537	23.85714286	CLONAL
+EDD_ret_pt064	Lung Adenocarcinoma	Fusion	2.110842565	-48.958	40.85714286	CLONAL
+EDD_ret_pt057	Lung Adenocarcinoma	Fusion	1.916422855	-93.75	49	SUBCLONAL
+EDD_ret_pt052	Lung Adenocarcinoma	Fusion	1.138744015	-45	63.85714286	SUBCLONAL
+EDD_ret_pt056	Lung Adenocarcinoma	Fusion	0.888775817	-100	53.85714286	SUBCLONAL
+EDD_ret_pt010	Lung Adenocarcinoma	Fusion	1.722003145	-76.923	107.8571429	CLONAL
+EDD_ret_pt070	Lung Adenocarcinoma	Fusion	3.44400629	-0.68	7.428571429	SUBCLONAL
+EDD_ret_pt058	Lung Adenocarcinoma	Fusion	2.194165298	-19.209	10.14285714	SUBCLONAL
+EDD_ret_pt008	Lung Adenocarcinoma	Fusion	2.388585008	-40	18.42857143	SUBCLONAL
+EDD_ret_pt039	Lung Adenocarcinoma	Fusion	1.083195527	-28.947	71	CLONAL
+EDD_ret_pt018	Lung Adenocarcinoma	Fusion	1.694228901	-55.978	91.57142857	CLONAL
+EDD_ret_pt060	Lung Adenocarcinoma	Fusion	1.638680412	-41.085	46.85714286	CLONAL
+EDD_ret_pt036	Lung Adenocarcinoma	Fusion	1.527583435	-31.937	15.57142857	CLONAL
+EDD_ret_pt025	Lung Adenocarcinoma	Fusion	2.388585008	-1.408	15	CLONAL
+EDD_ret_pt048	Lung Adenocarcinoma	Fusion	4.832718504	-26.316	22	SUBCLONAL
+EDD_ret_pt028	Lung Adenocarcinoma	Fusion	0.749904595	-73.913	39.85714286	SUBCLONAL
+EDD_ret_pt032	Lung Adenosquamous	Fusion	0.805453084	-100	74.71428571	SUBCLONAL
+EDD_ret_pt045	Medullary Thyroid	Somatic Mutation	2.249713786	-45.631	119	SUBCLONAL
+EDD_ret_pt071	Medullary Thyroid	Somatic Mutation	1.277615237	-86.275	34.85714286	SUBCLONAL
+EDD_ret_pt020	Medullary Thyroid	Somatic Mutation	0.999872794	-61.538	71	SUBCLONAL
+EDD_ret_pt044	Medullary Thyroid	Germline Mutation	1.971971344	-100	73.57142857	SUBCLONAL
+EDD_ret_pt053	Medullary Thyroid	Somatic Mutation	3.471780535	NE	62.71428571	SUBCLONAL
+EDD_ret_pt031	Medullary Thyroid	Somatic Mutation	2.888521405	-55.245	122.8571429	SUBCLONAL
+EDD_ret_pt073	Medullary Thyroid	Somatic Mutation	1.638680412	-66.667	30.57142857	SUBCLONAL
+EDD_ret_pt013	Medullary Thyroid	Somatic Mutation	0.416613664	-52.5	70.85714286	SUBCLONAL
+EDD_ret_pt069	Medullary Thyroid	Germline Mutation	1.222066748	-100	36.42857143	SUBCLONAL
+EDD_ret_pt051	Medullary Thyroid	Somatic Mutation	1.194292504	-12.5	66.42857143	SUBCLONAL
+EDD_ret_pt077	Medullary Thyroid	Somatic Mutation	0.361065176	-19.048	22.85714286	SUBCLONAL
+EDD_ret_pt026	Medullary Thyroid	Somatic Mutation	1.194292504	-20.513	57.85714286	CLONAL
+EDD_ret_pt059	Non Langerhans Cell Histiocytosis	Fusion	0.222193954	NE	47.57142857	SUBCLONAL
+EDD_ret_pt030	Papillary Thyroid	Fusion	1.722003145	-100	107.7142857	SUBCLONAL
+EDD_ret_pt074	Papillary Thyroid	Fusion	0.305516687	-11.111	28.85714286	SUBCLONAL
+EDD_ret_pt043	Papillary Thyroid	Fusion	0.805453084	-54.545	118.5714286	SUBCLONAL
+EDD_ret_pt004	Papillary Thyroid	Fusion	1.388712214	-32.609	43.42857143	SUBCLONAL
