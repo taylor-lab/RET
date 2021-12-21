@@ -16,7 +16,7 @@ source('data/grob_stuff.R')
 data <- fread('data/RET_master_table.tsv', header = T)
 exome = fread('data/EDfig4a_data.tsv', header = T)
 exome_ids = fread('data/exome_cases.tsv', header = F)
-tmb = fread('data/EDfig4b.tsv', header = T)
+tmb = fread('data/EDfig4b_data.tsv', header = T)
 
 # Set Fig 4a patient order #
 exome_order0 = data %>%
